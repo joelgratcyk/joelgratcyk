@@ -1,6 +1,6 @@
 ## Hi there, I'm Joel 👋
 
-I'm a tinkerer at Fried Egg Burger. I'm registered by first domain in 1997, started using WordPress in 2004, and have visited 6 of the 7 contienents (so far). 
+I'm a tinkerer at Fried Egg Burger. I registered by first domain in 1997, started using WordPress in 2004, and have visited 6 of the 7 contienents (so far). 
 
 Find out more about me at https://joel.gr.
 
