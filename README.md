@@ -2,7 +2,7 @@
 
 I'm a tinkerer at Fried Egg Burger. I'm registered by first domain in 1997, started using WordPress in 2004, and have visited 6 of the 7 contienents (so far). 
 
-Find out more about me on <a href="https://joel.gr>my website</a>.
+Find out more about me at https://joel.gr.
 
 <!--
 **joelgratcyk/joelgratcyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
